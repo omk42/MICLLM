@@ -2,6 +2,13 @@
 
 This project provides a comprehensive pipeline for processing text files, transforming them into vector stores, running inference to generate answers, and post-processing results into a CSV format. It is designed to handle specific file formats and patterns, extracting Militarized Interstate Confrontations (MICs) metadata such as country codes and publication dates.
 
+## Links
+- Dataset- https://www.dropbox.com/scl/fo/6dtw8wafbengbze4am7ft/AHUl4WVv-619PJ2YwVFFd1k?dl=0&rlkey=puwzr74w10ac3lsyom0pfd4y5
+
+## Pre-trained Models 
+- sentence-transformers/all-MiniLM-L6-v2 https://huggingface.co/sentence-transformers/all-MiniLM-L6-v2
+- GPT-4- https://openai.com/index/gpt-4/
+
 ## Table of Contents
 
 - [Features](#features)
